@@ -1,5 +1,5 @@
 # Sobre mim
-- 👍 eu email de contato é gabriela.vidal@escola.pr.gov.br
+- 👍 eu email de contato é [email](gabriela.vidal@escola.pr.gov.br)
 - 👋 Olá, Eu sou @GabiVidal0o
 - 👀 Eu estou interessada em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
